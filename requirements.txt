@@ -1,6 +1,7 @@
 numpy
 matplotlib
 tensorflow
+protobuf<=3.20
 runipy
 opencv-python
 streamlit==0.64.0
