@@ -1,9 +1,9 @@
-IPython kernel
-numpy
-matplotlib
-tensorflow
-protobuf
-runipy
-opencv-python-headless
-streamlit==0.64.0
+opencv_python_headless==4.4.0.46
+numpy==1.18.5
+Keras==2.4.3
+streamlit==0.71.0
+matplotlib==3.2.2
+Pillow==8.0.1
+scikit_learn==0.23.2
+tensorflow==2.3.1
 streamlit_drawable_canvas==0.4.0
