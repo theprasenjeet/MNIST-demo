@@ -1,4 +1,5 @@
 ipython
+IPython.kernel
 numpy
 matplotlib
 tensorflow
