@@ -6,4 +6,5 @@ matplotlib==3.2.2
 Pillow==8.0.1
 scikit_learn==0.23.2
 tensorflow==2.3.1
+protobuf>=3.9.2
 streamlit_drawable_canvas==0.4.0
