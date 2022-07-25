@@ -2,6 +2,6 @@ numpy
 matplotlib
 tensorflow
 runipy
-opencv-python
+opencv-python-headless
 streamlit
 streamlit_drawable_canvas
