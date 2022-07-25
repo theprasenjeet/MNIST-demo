@@ -1,5 +1,4 @@
-ipython
-IPython.kernel
+IPython kernel
 numpy
 matplotlib
 tensorflow
